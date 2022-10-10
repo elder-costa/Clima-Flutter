@@ -1,34 +1,15 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
+# Clima
 
+O projeto Clima foi realizado através do curso da Dra. Angela Yu.
 
-# Clima ☁
+>Link do curso: [www.udemy.com/course/flutter-bootcamp-with-dart](https://www.udemy.com/course/flutter-bootcamp-with-dart/)
 
-## Our Goal
+>Link do certificado de conclusão: [www.udemy.com/certificate/elder-costa](https://www.udemy.com/certificate/UC-507a8cec-4034-4718-8df3-59d8559cab50/)
 
-The objective of this tutorial is to learn about asynchronous programming in Dart. We'll look at how to carry out time consuming tasks such as getting device location and networking to get data from the internet. 
+Todo material pertence a Dra. Angela Yu e a The App Brewery's Complete Flutter Development Bootcamp, entretanto, instruído pelo curso, fui capaz de realizar desafios por conta própria, aprendendo a lidar com APIs e como utilizar seus dados através do uso de http e métodos assíncronos.
 
+>Link do site da API: [openweathermap.org](https://openweathermap.org/)
 
-## What you will create
-
-We’re going to make a weather app inspired by the beautiful designs made by [Olia Gozha](https://dribbble.com/shots/4663154-). By the end of the module, you'll be able to find out the live weather data in the current location of the device as well as the weather for any city you can think of!
+Também obtive experiência com o tratamento de exceções utilizando o try, catch e throw, aprendi a converter arquivos JSONs, como passar e retornar entre telas usando o Navigator, fiz uso do pacote Geolocator para manipular dados de localização atual etc.
 
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/clima-demo.gif)
-
-## What you will learn
-
-- How to use Dart to perform asynchronous tasks.
-- Understand async and await.
-- Learn about Futures and how to work with them.
-- How to network with the Dart http package.
-- What APIs are and how to use them to get data from the internet.
-- What JSONs are and how to parse them using the Dart convert package.
-- How to pass data forwards and backwards between screens using the Navigator.
-- How to handle exceptions in Dart using try/catch/throw.
-- Learn about the lifecycle of Stateful Widgets and how to override them.
-- How to use the Geolocator package to get live location data for both iOS and Android.
-- How to use the TextField Widget to take user input.
-
-
->This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
