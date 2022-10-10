@@ -13,3 +13,9 @@ Todo material pertence a Dra. Angela Yu e a The App Brewery's Complete Flutter D
 Também obtive experiência com o tratamento de exceções utilizando o try, catch e throw, aprendi a converter arquivos JSONs, como passar e retornar entre telas usando o Navigator, fiz uso do pacote Geolocator para manipular dados de localização atual etc.
 
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/clima-demo.gif)
+
+``` [√] Flutter (Channel stable, v1.2.1, on Microsoft Windows [versÃ£o 10.0.19044.2006], locale pt-BR)
+[!] Android toolchain - develop for Android devices (Android SDK version 32.1.0-rc1)
+    ! Some Android licenses not accepted.  To resolve this, run: flutter doctor --android-licenses
+[√] Android Studio (version 3.4)
+[√] Connected device (2 available) ```
